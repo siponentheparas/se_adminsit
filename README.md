@@ -39,7 +39,7 @@ Kaikki pelaajat voivat käyttää vain komentoa /keissinumero. Muut komennot ova
 3. Lisäät server.cfg (add_ace group.admin "se_adminsit" allow) jotta adminit voivat käyttää komentoja
 
 ## Muuta
-Tämä scripti on testattu yksin. Eli jos tulee ongelmia niin voit kertoa minulle discordissa seikkailija007#5090 ja minä pyrin korjaamaan sen.
+Tämä scripti on testattu yksin. Eli jos tulee ongelmia niin voit kertoa minulle discordissa @siponen ja minä pyrin korjaamaan sen.
 
 Tein kommentteja koodiin niin scriptin muokkaus pitäisi olla helppoa, jos tarvitset selvennystä jostain osasta koodia niin voin koittaa selittää sen mahdollisimman hyvin.
 
